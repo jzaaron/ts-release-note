@@ -1,0 +1,16 @@
+{
+  "name": "test-tsconfig",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ts38": "yarn workspace ts38 start",
+    "ts46": "yarn workspace ts46 start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "*",
+    "typescript": "3.8.3"
+  }
+}

@@ -14,7 +14,7 @@ calc('1');
  */
 class A {
     get words() {
-        return 'hello!'
+        return 'hello!';
     }
 }
 
